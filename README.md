@@ -57,7 +57,7 @@ ims-test-automation/
 ### 2. Clone the project
 
 ```bash
-git clone https://github.com/<your-username>/ims-test-automation.git
+git clone https://github.com/hamzaouhadi09/ims-test-automation.git
 cd ims-test-automation
 ```
 
