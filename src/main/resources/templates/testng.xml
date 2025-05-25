@@ -3,6 +3,7 @@
     <test name="Regression Tests">
         <classes>
             <class name="com.ims.tests.AuthenticationTests"/>
+            <class name="com.ims.tests.ProductTests"/>
         </classes>
     </test>
 </suite>
